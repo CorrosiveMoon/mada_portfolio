@@ -9,7 +9,7 @@ export default function ContactPage() {
           {/* Header */}
           <div className="space-y-6 mb-16">
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-              Let's Create Together
+              Let&apos;s Create Together
             </h1>
             <div className="w-20 h-1 bg-accent"></div>
             <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl">
@@ -67,7 +67,7 @@ export default function ContactPage() {
                 </p>
                 <p>
                   Whether you have a clear vision or need help developing your concept,
-                  I'm here to help bring your story to life through compelling visuals.
+                  I&apos;m here to help bring your story to life through compelling visuals.
                 </p>
               </div>
             </div>

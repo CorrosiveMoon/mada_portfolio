@@ -26,7 +26,7 @@ export default function AboutPage() {
                 <p className="text-lg text-muted-foreground leading-relaxed">
                   Every project is an opportunity to tell a unique story. We believe in
                   capturing authentic moments and crafting narratives that resonate across
-                  cultures and industries. Whether it's educational content, entertainment,
+                  cultures and industries. Whether it&apos;s educational content, entertainment,
                   or commercial work, our focus is always on creating meaningful,
                   visually compelling stories that connect with audiences.
                 </p>

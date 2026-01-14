@@ -190,7 +190,7 @@ export default function Home() {
               Ready to Tell Your Story?
             </h2>
             <p className="text-lg text-muted-foreground">
-              Let's collaborate to create compelling visual content that resonates with your audience
+              Let&apos;s collaborate to create compelling visual content that resonates with your audience
             </p>
             <Button asChild size="lg" className="text-base bg-accent hover:bg-accent/90 text-white">
               <Link href="/contact">
